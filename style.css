@@ -24,6 +24,7 @@
 body{
     font-family: var(--font-padrao);
     background-color: var(--cor0);
+    margin: auto;
 }
 
 header{
@@ -44,7 +45,7 @@ header p{
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.397);
 }
 nav{
@@ -68,7 +69,7 @@ nav a:hover{
 main{
     min-width: 300px;
     max-width: 1000px;
-    margin: auto;
+    margin: 0% 5%;
     margin-bottom: 30px;
     padding: 20px;
     background-color: #fff;
